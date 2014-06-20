@@ -7,11 +7,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Student</title>
+<style type="text/css">@import url("<c:url value="/css/main.css"/>");</style>
 </head>
 <body>
-	This is a list of the students:
 
-	<table>
+	<table >
 		<tr>
 			<th> First Name </th>
 			<th> Last Name </th>
